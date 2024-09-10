@@ -1,0 +1,3 @@
+/home/embedfire/slambook2/ch5/rgbd/build/CMakeFiles/rebuild_cache.dir
+/home/embedfire/slambook2/ch5/rgbd/build/CMakeFiles/jointMap.dir
+/home/embedfire/slambook2/ch5/rgbd/build/CMakeFiles/edit_cache.dir
